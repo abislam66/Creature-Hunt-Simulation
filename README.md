@@ -61,7 +61,7 @@ Run the main simulation:
 java -cp src Hunt
 
 
-Tech Stack
-Java
+Tech Stack-
+Java,
 Object-Oriented Programming
 MVC Architecture
